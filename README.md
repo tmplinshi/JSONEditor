@@ -1,2 +1,1 @@
-# JSONEditor
-AutoHotkey GUI using &lt;a href="https://github.com/josdejong/jsoneditor">jsoneditor&lt;/a>
+![Screenshot](https://github.com/tmplinshi/JSONEditor/blob/master/Screenshot.png?raw=true)
