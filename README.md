@@ -3,8 +3,6 @@ AutoHotkey GUI using jsoneditor (https://github.com/josdejong/jsoneditor)
 # JSONEditor.ahk
 ![Screenshot](https://github.com/tmplinshi/JSONEditor/blob/master/Screenshot.png?raw=true)
 
---------
-
 # JsonBox.ahk
 (Require Jxon.ahk by CoCo)
 ```AutoHotkey
