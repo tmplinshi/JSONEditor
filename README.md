@@ -4,7 +4,7 @@ AutoHotkey GUI using jsoneditor (https://github.com/josdejong/jsoneditor)
 
 --------
 
-### JsonBox
+## JsonBox
 (Require Jxon.ahk by CoCo)
 ```AutoHotkey
 JsonBox(ByRef json = "", title = "", mode = "view", gui_option = "w700 h560")
