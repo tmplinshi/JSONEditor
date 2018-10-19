@@ -5,11 +5,12 @@ AutoHotkey GUI using jsoneditor (https://github.com/josdejong/jsoneditor)
 --------
 
 ### JsonBox
-
+(Require Jxon.ahk by CoCo)
 ```AutoHotkey
 JsonBox(ByRef json = "", title = "", mode = "view", gui_option = "w700 h560")
 ```
 - json: Json string or AHK object
+- title: Window title
 - mode: Value can be tree, view, form, code, text
 
 **Examples:**
